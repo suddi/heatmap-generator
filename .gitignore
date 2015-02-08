@@ -1,0 +1,10 @@
+# Heatmap images
+heatmap/
+
+# Source images
+images/
+
+*.xlsx
+*.xls
+*.txt
+*.mat
