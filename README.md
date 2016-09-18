@@ -1,5 +1,7 @@
 ## Heatmap Generator ##
 
+[![license](https://img.shields.io/github/license/suddi/heatmap-generator.svg?maxAge=2592000)](https://github.com/suddi/heatmap-generator/blob/master/LICENSE)
+
 Generates heatmaps for eyetracking data fed in text format from EyeLink.
 
 Required input in text file:
