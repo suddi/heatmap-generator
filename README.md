@@ -1,5 +1,6 @@
 ## Heatmap Generator ##
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/33ba494f09e64e07871f31ff547ea36b)](https://www.codacy.com/app/Suddi/heatmap-generator?utm_source=github.com&utm_medium=referral&utm_content=suddi/heatmap-generator&utm_campaign=badger)
 [![license](https://img.shields.io/github/license/suddi/heatmap-generator.svg?maxAge=2592000)](https://github.com/suddi/heatmap-generator/blob/master/LICENSE)
 
 Generates heatmaps for eyetracking data fed in text format from EyeLink.
